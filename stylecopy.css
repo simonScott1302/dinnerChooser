@@ -1,0 +1,49 @@
+
+    body {
+      /* background-color: rgb(217, 141, 219); */
+      background-image: url("Images/table.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    #pageHeader {
+      font-size: 120px;
+      text-align: right;
+      border: solid;
+      border-color: blanchedalmond;
+      background-image: url("Images/chicken.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: rgb(196, 241, 239);
+    }
+
+    .wrapper {
+      text-align: center;
+    }
+
+    .button1 {
+      background-color: rgb(86, 193, 207);
+      opacity: 50%;
+      top: 50%;
+      font-size: 40px;
+      margin: 10px;
+      border-radius: 10px;
+
+    }
+
+    p {
+      font-size: 80px;
+      text-align: center;
+      color: white;
+      margin: 500px;
+      border: solid;
+      border-radius: 25px;
+      border-color: rgb(25, 94, 206, );
+      background-image: url("Images/header.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  
